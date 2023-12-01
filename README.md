@@ -48,15 +48,11 @@ To run the Sumz application locally, follow these steps:
 
 ## Usage
 1. Input an Article URL:
-
-- In the provided form, enter the URL of the article you want to summarize.
+    - In the provided form, enter the URL of the article you want to summarize.
 2. Submit for Summary:
-
-- Click the submit button to initiate the article summarization process.
+    - Click the submit button to initiate the article summarization process.
 3. Explore Reading History:
-
-- View a list of previously summarized articles in the sidebar. Click on any link to revisit the summary.
+    - View a list of previously summarized articles in the sidebar. Click on any link to revisit the summary.
 4. Copy Article URLs:
-
-- In the history section, click on the copy icon to quickly copy the article URL to the clipboard.
+    - In the history section, click on the copy icon to quickly copy the article URL to the clipboard.
 
