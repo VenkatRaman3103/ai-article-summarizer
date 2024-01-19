@@ -7,7 +7,7 @@ Sumz is a web application that utilizes OpenAI GPT-4 to provide concise summarie
 
 ## Table of Contents
 
-<!-- -   [Demo](#demo) -->
+
 -   [Features](#features)
 -   [Installation](#installation)
 -   [Usage](#usage)
