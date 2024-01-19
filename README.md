@@ -2,7 +2,7 @@
 <img width="947" alt="Screenshot 2023-12-01 2346241" src="https://github.com/VenkatRaman3103/ai-article-summarizer/assets/145652521/01c14d31-b0d5-4114-b1f3-33e4e04aa0be">
 <img width="948" alt="Screenshot 2023-12-01 23464012" src="https://github.com/VenkatRaman3103/ai-article-summarizer/assets/145652521/351815d2-4b4b-455d-8332-b6f20fbf97a3">
 
-## Overview
+
 Sumz is a web application that utilizes OpenAI GPT-4 to provide concise summaries of articles. Simplify your reading experience and explore insightful summaries effortlessly.
 
 ## Table of Contents
